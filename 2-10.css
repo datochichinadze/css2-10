@@ -1,0 +1,565 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+#headercontainer {
+    padding: 96px;
+    background: #E2F7FF;
+}
+
+
+
+#oneimage_div {
+    text-align: center;
+}
+
+
+
+#olivia_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+
+#ux_box {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+
+#how_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+
+#desing_button {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    margin-top: 24px;
+}
+
+
+
+#research_box {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-top: 24px;
+}
+
+
+
+#presentation_box {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-top: 24px;
+}
+
+
+#hed_div {
+    margin-left: 50px;
+}
+
+
+#ux_box img {
+    margin-left: 873px;
+}
+
+
+/*  */
+
+
+#started_box {
+    margin-left: 30px;
+}
+
+
+#main_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+}
+
+
+
+
+
+#phoenix_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 171px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#migrating_div {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 277px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#linear_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+#product_button {
+    color: #026AA2;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    margin-top: 24px;
+}
+
+
+#tools_button {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-top: 24px;
+}
+
+
+
+#saas_button {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-top: 24px;
+}
+
+
+
+/*  */
+
+
+
+#container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+    margin-left: 32px;
+}
+
+
+
+
+
+#lana_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 171px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#building_div {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 277px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#the_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+#Software_button {
+    color: #067647;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+    margin-top: 24px;
+}
+
+
+#to_button {
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    margin-top: 24px;
+}
+
+
+/*  */
+
+
+#container_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+    margin-left: 32px;
+}
+
+
+
+#alec_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 171px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#bill_div {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 325px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#like_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#leadership_button {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    margin-top: 24px;
+}
+
+
+#management_button {
+    color: #363F72;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+    margin-top: 24px;
+}
+
+
+
+/*  */
+
+
+
+
+
+
+#container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+}
+
+
+
+#demi_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 181px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#pm_box {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 325px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#mental_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#Products_buttom {
+    color: #026AA2;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    margin-top: 24px;
+}
+
+
+#Research_button {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-top: 24px;
+}
+
+
+#Frameworks_button {
+    color: #B93815;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+    margin-top: 24px;
+}
+
+
+
+/*  */
+
+
+#second_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+    margin-left: 32px;
+}
+
+
+
+#candice_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 181px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#what_box {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 325px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#Introduction_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#Designs_button {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    color: #3538CD;
+    background: #F9F5FF;
+    margin-top: 24px;
+}
+
+
+#Researchs_button {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-top: 24px;
+}
+
+
+/*  */
+
+
+
+#last_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 48px;
+    margin-left: 32px;
+}
+
+
+
+#craig_box {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    max-width: 181px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+#hows_box {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 325px;
+    width: 100%;
+    margin-top: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+#collaboration_box {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 358px;
+    width: 100%;
+    margin-top: 8px;
+}
+
+
+
+#button_box {
+    color: #6941C6;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    margin-top: 24px;
+}
+
+
+#button_div {
+    color: #3538CD;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    margin-top: 24px;
+}
+
+
+#images_box {
+    display: inline-block;
+    vertical-align: middle;
+}
